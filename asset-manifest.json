@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.47875b29.css",
-    "main.js": "/static/js/main.c21d122e.js",
+    "main.js": "/static/js/main.5e0560cf.js",
     "static/js/988.f4de8111.chunk.js": "/static/js/988.f4de8111.chunk.js",
     "static/media/blueFly.png": "/static/media/blueFly.fd70420c44dd386f4b45.png",
     "static/media/pic.png": "/static/media/pic.b25087740098e8bc531c.png",
     "static/media/PharmEasy_clone.png": "/static/media/PharmEasy_clone.b2bfd8400e992fad1a7e.png",
     "static/media/AnkiFood.png": "/static/media/AnkiFood.d32ef8171f7b43fd2ec4.png",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Ankit_Kumar_Resume.pdf": "/static/media/Ankit_Kumar_Resume.897d45d50c597716d723.pdf",
+    "static/media/Ankit_Kumar_Resume.pdf": "/static/media/Ankit_Kumar_Resume.ec0fd1662716de33f4fd.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/aa.svg": "/static/media/aa.a37f12220a29ff9c32d8520a0ce5df70.svg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.47875b29.css.map": "/static/css/main.47875b29.css.map",
-    "main.c21d122e.js.map": "/static/js/main.c21d122e.js.map",
+    "main.5e0560cf.js.map": "/static/js/main.5e0560cf.js.map",
     "988.f4de8111.chunk.js.map": "/static/js/988.f4de8111.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47875b29.css",
-    "static/js/main.c21d122e.js"
+    "static/js/main.5e0560cf.js"
   ]
 }
