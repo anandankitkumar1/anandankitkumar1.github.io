@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.47875b29.css",
-    "main.js": "/static/js/main.e82d7f77.js",
+    "main.js": "/static/js/main.335b0518.js",
     "static/js/988.f4de8111.chunk.js": "/static/js/988.f4de8111.chunk.js",
-    "static/media/Nike.png": "/static/media/Nike.a8e72fb0d623c66fb4f7.png",
     "static/media/blueFly.png": "/static/media/blueFly.fd70420c44dd386f4b45.png",
     "static/media/pic.png": "/static/media/pic.b25087740098e8bc531c.png",
     "static/media/PharmEasy_clone.png": "/static/media/PharmEasy_clone.b2bfd8400e992fad1a7e.png",
+    "static/media/AnkiFood.png": "/static/media/AnkiFood.d32ef8171f7b43fd2ec4.png",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Ankit_Kumar_Resume.pdf": "/static/media/Ankit_Kumar_Resume.1d1d7893771927d3eac5.pdf",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
@@ -14,11 +14,11 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.47875b29.css.map": "/static/css/main.47875b29.css.map",
-    "main.e82d7f77.js.map": "/static/js/main.e82d7f77.js.map",
+    "main.335b0518.js.map": "/static/js/main.335b0518.js.map",
     "988.f4de8111.chunk.js.map": "/static/js/988.f4de8111.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47875b29.css",
-    "static/js/main.e82d7f77.js"
+    "static/js/main.335b0518.js"
   ]
 }
