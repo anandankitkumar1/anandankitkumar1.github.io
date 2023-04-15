@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.3fe31100.css",
-    "main.js": "/static/js/main.d02d442c.js",
+    "main.css": "/static/css/main.3ff68758.css",
+    "main.js": "/static/js/main.2df80389.js",
     "static/js/988.f4de8111.chunk.js": "/static/js/988.f4de8111.chunk.js",
+    "pdf.worker.js": "/94de38d257807d1576f40c135bf64cfe.js",
     "static/media/blueFly.png": "/static/media/blueFly.fd70420c44dd386f4b45.png",
     "static/media/pic.png": "/static/media/pic.b25087740098e8bc531c.png",
     "static/media/PharmEasy_clone.png": "/static/media/PharmEasy_clone.b2bfd8400e992fad1a7e.png",
@@ -13,12 +14,12 @@
     "static/media/aa.svg": "/static/media/aa.a37f12220a29ff9c32d8520a0ce5df70.svg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.3fe31100.css.map": "/static/css/main.3fe31100.css.map",
-    "main.d02d442c.js.map": "/static/js/main.d02d442c.js.map",
+    "main.3ff68758.css.map": "/static/css/main.3ff68758.css.map",
+    "main.2df80389.js.map": "/static/js/main.2df80389.js.map",
     "988.f4de8111.chunk.js.map": "/static/js/988.f4de8111.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fe31100.css",
-    "static/js/main.d02d442c.js"
+    "static/css/main.3ff68758.css",
+    "static/js/main.2df80389.js"
   ]
 }
